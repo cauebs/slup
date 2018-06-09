@@ -1,0 +1,9 @@
+[package]
+authors = ["Cauê Baasch de Souza <cauebs@pm.me>"]
+name = "slup"
+version = "0.1.0"
+
+license = "GPL-3.0-or-later"
+
+[dependencies]
+structopt = "0.2.10"
